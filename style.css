@@ -1,0 +1,23 @@
+body {
+    background-color: hotpink;
+    height: 400px;
+}
+
+.fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: beige;
+    background-size: 300px 100px;
+}
+
+.absolute {
+    background-color: beige;
+    background-size: 300px 100px;
+    
+}
+
+.relative {
+    background-color: greenyellow;
+    
+}
